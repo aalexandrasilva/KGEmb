@@ -1,0 +1,8 @@
+2021-09-08 08:57:01 INFO     Saving logs in: /home/datascienceadmin/silva/KGEmb/logs/09_08/FB237/RotH_08_57_01
+2021-09-08 08:57:02 INFO     	 (14541, 474, 14541)
+2021-09-08 08:57:02 INFO     Total number of parameters 8011056
+2021-09-08 08:57:08 INFO     	 Start training
+2021-09-08 08:58:38 INFO     	 Epoch 0 | average train loss: 0.0639
+2021-09-08 08:58:38 INFO     	 Epoch 0 | average valid loss: 0.0361
+2021-09-08 09:00:08 INFO     	 Epoch 1 | average train loss: 0.0359
+2021-09-08 09:00:09 INFO     	 Epoch 1 | average valid loss: 0.0307
